@@ -19,10 +19,10 @@ var config = {
         "有自由 有光芒",
         "你也会记得我的生日吧~",
         "那就以我很喜欢的一句歌词结尾吧",
-        "Sometimes I get high, sometimes I get low",
-        "But I'm calm as can be in a room full of strangers",
-        "有没有发现照片的顺序",
-        "是春夏秋冬呢？",
+        "Sometimes I get high",
+        "sometimes I get low",
+        "But I'm calm as can be ",
+        "in a room full of strangers",
     ],
     /**
      * imgs 可以不填, 但是如果要填写的话必须遵循下面的格式
@@ -34,11 +34,7 @@ var config = {
      * Tip: 图片最好用正方形or接近正方形, 看起来效果更好
      */
     imgs: {
-        "一位亲爱的朋友": "./imgs/spring.png",
-        "每次去图书馆都发现": "./imgs/summer.jpg",
-        "很荣幸也很开心能够认识你":"./imgs/autumn.jpg",
-        "那就以我很喜欢的一句歌词结尾吧":"./imgs/winter.jpg",
-        //"有没有发现照片的顺序":"./imgs/winter.jpg",
+        
     },
     // 按钮文字描述, 以下是默认的按钮文字，英文的，您可以改成你喜欢的文字
     desc: {
